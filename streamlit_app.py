@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('🎈 Hut Dog breeds')
 
-st.write('Hello world!')
+st.write('hut na hee mak mak i sus.')
